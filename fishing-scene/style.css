@@ -1,0 +1,15 @@
+#myCanvas {
+  border: 2px solid black;
+}
+
+body {
+  text-align: center;
+}
+
+#cloud-img {
+  display: none;
+}
+
+#bird {
+  display: none;
+}
